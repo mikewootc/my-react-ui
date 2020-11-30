@@ -1,5 +1,7 @@
 'use strict'
 
-export * from './MyFileSelector.jsx';
+export {MyFileSelector} from './MyFileSelector.jsx';
+//import MyFileSelector from './MyFileSelector.jsx';
+//export default MyFileSelector;
 
 // vim:set tw=0:
